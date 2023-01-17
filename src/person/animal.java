@@ -26,6 +26,6 @@ public class animal {
         this.mouth = mouth;
     }
     public String banana(){
-        return "猴子吃香蕉";
+        return "猴子香蕉";
     }
 }
