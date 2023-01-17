@@ -108,7 +108,7 @@ public class Main {
 
 //异常：程序出现错误就会异常，然后会有异常处理方式，，j监听s使用try  异常c处理gf方式s使用catch ctrl+alt+tT command+option+t
         try {
-            int z=1/0;
+            /*int z=1/0;*/
         } catch (Exception e) {
             System.out.println("程序出错");
             throw new RuntimeException(e);//解释原因
